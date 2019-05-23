@@ -1,0 +1,19 @@
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.exe.config
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.exe
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.pdb
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.csprojResolveAssemblyReference.cache
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.exe
+C:\Users\Mati\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.pdb
+C:\Users\Mati\inne\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.exe.config
+C:\Users\Mati\inne\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.exe
+C:\Users\Mati\inne\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.pdb
+C:\Users\Mati\inne\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.csprojResolveAssemblyReference.cache
+C:\Users\Mati\inne\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.exe
+C:\Users\Mati\inne\Documents\Visual Studio 2017\Projects\zMonografu\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.pdb
+C:\Users\Mati\inne\Desktop\naGITa\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.exe.config
+C:\Users\Mati\inne\Desktop\naGITa\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.exe
+C:\Users\Mati\inne\Desktop\naGITa\LottoZadanie\LottoZadanie\bin\Debug\LottoZadanie.pdb
+C:\Users\Mati\inne\Desktop\naGITa\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.csprojResolveAssemblyReference.cache
+C:\Users\Mati\inne\Desktop\naGITa\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.exe
+C:\Users\Mati\inne\Desktop\naGITa\LottoZadanie\LottoZadanie\obj\Debug\LottoZadanie.pdb
